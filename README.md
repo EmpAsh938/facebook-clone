@@ -10,9 +10,10 @@ https://facebook-clone-c4bb7.web.app
 
 Install facebook-clone with npm
 
-```bash
-  npm install facebook-clone
+```
+  git clone https://github.com/EmpAsh938/facebook-clone.git
   cd facebook-clone
+  npm install facebook-clone
 ```
 
 ## Features
