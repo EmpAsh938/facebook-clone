@@ -13,7 +13,8 @@ Install facebook-clone with npm
 ```
   git clone https://github.com/EmpAsh938/facebook-clone.git
   cd facebook-clone
-  npm install facebook-clone
+  npm install
+  npm start
 ```
 
 ## Features
